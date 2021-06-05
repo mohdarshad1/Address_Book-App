@@ -1,0 +1,22 @@
+{
+  "AddressBookDB": [
+    {
+      "_fullName": "Mohd Arshad",
+      "_address": "1608/32, Naiwala, Karol Bagh",
+      "_phoneNumber": "9717704916",
+      "_city": "New Delhi",
+      "_state": "Delhi",
+      "_zip": "110005",
+      "id": 1
+    },
+    {
+      "_fullName": "Imran Ansari",
+      "_address": "1340-32, Rohtak",
+      "_phoneNumber": "9876543210",
+      "_city": "Rohtak",
+      "_state": "Haryana",
+      "_zip": "136123",
+      "id": 2
+    }
+  ]
+}
